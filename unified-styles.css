@@ -122,7 +122,7 @@ main, .main-footer {
 }
 
 .logo-image {
-    height: 35px; /* Small mobile logo */
+    height: 50px; /* Small mobile logo */
     width: auto;
     max-width: none;
     display: block;
