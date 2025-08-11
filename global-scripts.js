@@ -130,9 +130,9 @@ Message:
 ${data.message}
 
 ---
-Sent via Polyshift.io contact form`);
+Sent via Polyshift.org contact form`);
             
-            const mailtoLink = `mailto:contact@polyshift.io?subject=${subject}&body=${body}`;
+            const mailtoLink = `mailto:contact@polyshift.org?subject=${subject}&body=${body}`;
             
             // Open email client
             window.location.href = mailtoLink;
